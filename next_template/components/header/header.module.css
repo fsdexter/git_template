@@ -1,0 +1,13 @@
+.header{
+    border:dashed 1px red;
+    align-content: center;
+}
+.right{
+    border:dashed 1px red;
+    margin-top: 10px;
+}
+.left{
+    border:dashed 1px red;
+    display: flex;
+    float: right;
+}
