@@ -5,6 +5,8 @@ import { Hero2 } from '../components/section1.2/hero2'
 import { Card } from '../components/mycard'
 import { List } from '../components/section2/list'
 import Visit from '../components/section3/visit'
+import { List2 } from '../components/section4/section4'
+import Section5 from '../components/section5/section5'
 
 export default function Home() {
   return (
@@ -23,6 +25,8 @@ export default function Home() {
        
         <List/>
         <Visit/>
+        <List2/>
+        <Section5/>
       </main>
 
       <footer>
