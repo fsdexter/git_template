@@ -1,13 +1,14 @@
+
+.border{
+    border:dashed 1px red;
+    width: 100%;
+    background-color: blue;
+}
 .header{
-    border:dashed 1px red;
-    align-content: center;
+    width: 100%;
 }
-.right{
-    border:dashed 1px red;
-    margin-top: 10px;
-}
+
 .left{
-    border:dashed 1px red;
     display: flex;
     float: right;
 }
