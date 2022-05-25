@@ -1,0 +1,18 @@
+.box{
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* height: 100%; */
+    background: #413d3d;
+    
+}
+.box_inner{
+    width: 80%;
+    margin: auto;
+    background-color: whitesmoke;
+    position: relative;
+    top: 150px;
+}
+.txt{
+    text-align: center;
+}
