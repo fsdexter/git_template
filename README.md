@@ -1,5 +1,5 @@
 # git_template
-
+this APP was created using the command "npx create-next-app@latest --use-npm"
 Inside next_template directory, you can run several commands:
 
   npm run dev
