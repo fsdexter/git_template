@@ -7,6 +7,9 @@ import { List } from '../components/section2/list'
 import Visit from '../components/section3/visit'
 import { List2 } from '../components/section4/section4'
 import Section5 from '../components/section5/section5'
+import { Section6 } from '../components/section6/section6'
+import Section7 from '../components/section7/section7';
+
 
 export default function Home() {
   return (
@@ -27,6 +30,8 @@ export default function Home() {
         <Visit/>
         <List2/>
         <Section5/>
+        <Section6/>
+        <Section7/>
       </main>
 
       <footer>
